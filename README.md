@@ -206,7 +206,7 @@ Yes, if you plan to complete multiple courses or certificates, the **Coursera An
     <a href="https://imp.i384100.net/aO4Qdo" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/main/Img/Claim%2050%25%20Discount%20on%20Coursera%20%20Plus%20On%20Annual%20Plan.png" alt="Claim 50% Discount on Coursera Plus On Annual Plan"/></a>
 </div>
 
-<div align='align'>
+<div align='center'>
 
   | Plan | Regular Price | Discounted Price | Total Savings |
   | :--- | :--- | :--- | :--- |

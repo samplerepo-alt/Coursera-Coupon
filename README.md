@@ -11,7 +11,7 @@ No code needed, these Coursera offers apply worldwide and expire soon.
 </div>
 
 <div align="center">
-    <a href="https://imp.i384100.net/aO4Qdo" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/main/Img/Claim%2050%25%20Discount%20on%20Coursera%20%20Plus%20For%20Team.png" alt="Claim 50% Discount on Coursera Plus For Team"/></a>
+    <a href="https://imp.i384100.net/aO4Qdo" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/main/Img/Claim%2050%25%20Discount%20On%20Coursera%20Plus%20For%20Team.png" alt="Claim 50% Discount on Coursera Plus For Team"/></a>
 </div><be>
 
 <div align="center">
@@ -19,7 +19,7 @@ No code needed, these Coursera offers apply worldwide and expire soon.
 </div><be>
 
 <div align="center">
-    <a href="https://imp.i384100.net/Vx03XM" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/main/Img/Get%20started%20with%20popular%20Google%20AI%20Essentials%20Certificate.png" alt="Get started with popular Google AI Essentials Certificate"/></a>
+    <a href="https://imp.i384100.net/Vx03XM" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/main/Img/Get%20started%20with%20popular%20Google%20AI%20Essential%20Certificate.png" alt="Get started with popular Google AI Essentials Certificate"/></a>
 </div><be>
 
 <div align="center">
@@ -40,20 +40,18 @@ Coursera Plus discount for today includes **up to 70% OFF**, free courses, and t
 
   | Coursera Offer | Live Discount | Final Price | Expires | Link |
   | :--- | :--- | :--- | :--- | :---: |
-  | **Coursera Plus Annual – 50% OFF** | Save $200 | $199/year (Reg. $399) | June 30 | Claim Now |
-  | **Coursera Teams Plan – 50% OFF** | Save 50%/user | $199.50/user/year | June 30 | Claim Now |
-  | **Coursera Plus Monthly – 40% OFF** | Save $71.80 | $35.40/month (3 months) | Limited | Claim Now |
-  | **Google AI Essentials – FREE** | 100% Off | $0 (Reg. $49) | LIVE | Claim Now |
-  | **7-Day Free Trial** | No payment needed | $0 | LIVE | Claim Now |
-  | **India Offer – 70% OFF** | Save ₹25,000+ | ₹7999/year (Reg. ₹33,000) | Limited | Claim Now |
+  | **Coursera Plus Annual – 50% OFF** | Save $200 | $199/year (Reg. $399) | June 30 | <a href="https://imp.i384100.net/aO4Qdo" target="_blank">Claim Now</a> |
+  | **Coursera Teams Plan – 50% OFF** | Save 50%/user | $199.50/user/year | June 30 | <a href="https://imp.i384100.net/aO4Qdo" target="_blank">Claim Now</a> |
+  | **Coursera Plus Monthly – 40% OFF** | Save $71.80 | $35.40/month (3 months) | Limited | <a href="https://imp.i384100.net/19VQAx" target="_blank">Claim Now</a> |
+  | **Google AI Essentials – FREE** | 100% Off | $0 (Reg. $49) | LIVE | <a href="https://imp.i384100.net/Vx03XM" target="_blank">Claim Now</a> |
+  | **7-Day Free Trial** | No payment needed | $0 | LIVE | <a href="https://imp.i384100.net/Vx03XM" target="_blank">Claim Now</a> |
+  | **India Offer – 70% OFF** | Save ₹25,000+ | ₹7999/year (Reg. ₹33,000) | Limited | <a href="https://imp.i384100.net/Vx03XM" target="_blank">Claim Now</a> |
   
 </div>
 
 ### 50% OFF On Coursera Plus Annual
 
 Get 12 months of unlimited learning for just **$199/year** (was $399). Includes 10,000+ courses, certificates from Google, Meta & more.  
-
-**Expire: 30 June**  
 
 <div align="center">
     <a href="https://imp.i384100.net/aO4Qdo" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/main/Img/Early%20Bird%20Sales.png" alt="Early Bird Sales"/></a>
@@ -62,8 +60,6 @@ Get 12 months of unlimited learning for just **$199/year** (was $399). Includes 
 ### Coursera Discount Code For Teams With 50% OFF
 
 Upskill your team for **$199.50/user/year**. Access enterprise learning from top universities and companies.
-
-**Expire: LIVE**
 
 <div align="center">
     <a href="https://imp.i384100.net/aO4Qdo" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/main/Img/Coursera%20Team%20Discount.png" alt="Coursera Team Discount"/></a>
@@ -75,8 +71,6 @@ Try Coursera Plus for 3 months at just **$35.40/month** (regular $59). Flexible,
 
 Perfect for learners who want flexibility without a long-term commitment.
 
-**Expire: LIVE**
-
 <div align="center">
     <a href="https://imp.i384100.net/19VQAx" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/main/Img/Get%20Coursera%20Plus%20for%2040%25%20OFF.png" alt="Get Coursera Plus for 40% OFF"/></a>
 </div><be>
@@ -84,8 +78,6 @@ Perfect for learners who want flexibility without a long-term commitment.
 ### Coursera 100% Free Courses - Google AI Essentials
 
 Learn AI basics with a **100% free course** from Google. Certificate included.  
-  
-**Expire: LIVE**
 
 <div align="center">
     <a href="https://imp.i384100.net/Vx03XM" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/main/Img/Coursera%20AI%20Essential%20Discount.png" alt="Coursera AI Essential Discount"/></a>
@@ -95,8 +87,6 @@ Learn AI basics with a **100% free course** from Google. Certificate included.
 
 New users can access everything for **free for 7 days**. No payment required.  
 
-**Expire: LIVE**
-
 <div align="center">
     <a href="https://imp.i384100.net/Vx03XM" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/main/Img/Coursera%20Free%20Trial.png" alt="Coursera Free Trial"/></a>
 </div><be>
@@ -104,8 +94,6 @@ New users can access everything for **free for 7 days**. No payment required.
 ### Get 70% OFF on Coursera Plus Discount For Every Indians In 2025
 
 Indian learners can get a full year of Coursera Plus for just **₹7,999** (worth ₹33,000).  
-
-**Expires: Limited-time regional deal**
 
 <div align="center">
     <a href="https://imp.i384100.net/Vx03XM" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/main/Img/coursera%20discount%20for%20indian.png" alt="coursera discount for indian"/></a>

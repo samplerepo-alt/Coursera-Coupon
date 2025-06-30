@@ -113,7 +113,7 @@ Here’s a quick look at Coursera’s current pricing with the active Coursera d
   
   | Plan | Regular Price | Discounted Price | You Save |
   | :--- | :--- | :--- | :--- |
-  | **Coursera Plus Monthly (3 mo)** | $59/month | $35.40/month (40% OFF) | $70.80 (3 mo) |
+  | **Coursera Plus Monthly (3 mo)** | $59/month | $35.40/month (40% OFF) | $23.60/Mo |
   | **Coursera Teams Plan** | $399/user/year | $199.50/user/year (50%) | $199.50/user |
   | **Google AI Essentials Course** | $49 | $0 (100% Free) | $49 |
   | **Coursera Free Trial** | $0 upfront | $0 for 7 days | — |

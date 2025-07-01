@@ -4,17 +4,16 @@ The **Coursera Summer Discount** is LIVE with **40% OFF** Coursera Plus Annual, 
 
 To add up to the benefits, you can also grab 40% off the monthly plan for 3 months, a 7-day Coursera free trial, and a 100% free Coursera course that includes a certificate. 
 
+No coupon code is needed. Just choose a plan and start learning at a lower cost.
+
+
 <div align="center">
     <a href="https://imp.i384100.net/aO4Qdo" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/main/Img/Cousera%20Plus%20Summer%20Discount%20Promotional.png" alt="Coursera Plus Summer Discount"/></a>
 </div>
 
 <div align="center">
-    <a href="https://imp.i384100.net/19VQAx" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/3f1bed25ec1b82b9744aecb678543a6ea77af2b9/Img/Cousera%2040%25%20OFF%20For%203%20Months.png" alt="Cousera 40% OFF For 3 Months"/></a>
+    <a href="https://imp.i384100.net/19VQAx" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/11efe92f6517e916edd466c1897442bd835207b3/Img/Cousera%2040%25%20OFF%20For%203%20Months.png" alt="Cousera 40% OFF For 3 Months"/></a>
 </div>
-
-<div align="center">
-    <a href="https://imp.i384100.net/19VQAx" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/main/Img/Claim%2050%25%20Discount%20On%20Coursera%20Plus%20For%20Team.png" alt="Claim 50% Discount on Coursera Plus For Team"/></a>
-</div><be>
 
 <div align="center">
     <a href="https://imp.i384100.net/Vx03XM" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/main/Img/Get%20started%20with%20popular%20Google%20AI%20Essential%20Certificate.png" alt="Get started with popular Google AI Essentials Certificate"/></a>
@@ -33,8 +32,7 @@ Coursera Plus discount for today includes **up to 50% OFF**, 100% free Coursera 
   | Coursera Offer | Live Discount | Final Price | Expires |
   | :--- | :--- | :--- | :--- |
   | **Coursera Summer Discount - 40% OFF** | Save $159 | $240/year | July 21 |
-  | **Coursera Plus Monthly – 40% OFF** | Save $70.80 | $35.40/month (3 months) | Limited |
-  | **Coursera Teams Plan – 50% OFF** | Save 50%/user | $199.50/user/year | July 30 |
+  | **Coursera Plus Monthly – 40% OFF** | Save $70.80 | $35.40/month (3 months) | March 2026 |
   | **Google AI Essentials – FREE** | 100% Off | $0 (Reg. $49) | LIVE |
   | **7-Day Free Trial** | No payment needed | $0 | LIVE |
   
@@ -59,15 +57,6 @@ Perfect for learners who want flexibility without a long-term commitment.
 <div align="center">
     <a href="https://imp.i384100.net/19VQAx" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/3f1bed25ec1b82b9744aecb678543a6ea77af2b9/Img/Get%20Coursera%20Plus%20for%2040%25%20OFF.png" alt="Get Coursera Plus for 40% OFF"/></a>
 </div><be>
-
-### Coursera Promo Code for Teams To Get 50% OFF
-
-Upskill your team for **$199.50/user/year**. Access enterprise learning from top universities and companies.
-
-<div align="center">
-    <a href="https://imp.i384100.net/19VQAx" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/main/Img/Coursera%20Team%20Discount.png" alt="Coursera Team Discount"/></a>
-</div><be>
-
 
 ### 100% Free Coursera Courses - Google AI Essentials
 
@@ -94,7 +83,7 @@ Just follow these quick steps to claim your Coursera discount code and start lea
 ### Step 1: Click the “Claim Offer” button next to your preferred deal
 
 <div align="center">
-    <a href="https://imp.i384100.net/19VQAx" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/3f1bed25ec1b82b9744aecb678543a6ea77af2b9/Img/Cousera%2040%25%20OFF%20For%203%20Months.png" alt="Cousera 40% OFF For 3 Months"/></a>
+    <a href="https://imp.i384100.net/19VQAx" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/11efe92f6517e916edd466c1897442bd835207b3/Img/Cousera%2040%25%20OFF%20For%203%20Months.png" alt="Cousera 40% OFF For 3 Months"/></a>
 </div>
 
 ### Step 2: Sign in or create a Coursera account
@@ -104,9 +93,8 @@ Just follow these quick steps to claim your Coursera discount code and start lea
 ### Step 3: Check the final price (e.g., $199/year) at checkout
 
 <div align='center'>
-  <img src='https://github.com/samplerepo-alt/Coursera-Coupon/blob/main/Img/Cousera%20Promotional%20Discount.png' alt='Coursera Promotional Discount'>
+  <img src='https://github.com/samplerepo-alt/Coursera-Coupon/blob/main/Img/Claim%20Coursera%20Summer%20Discount.png' alt='Coursera Promotional Discount'>
 </div>
-
 
 ### Step 4: Complete the payment or start the Coursera Free Trial
 
@@ -128,7 +116,6 @@ Here’s a quick look at Coursera’s current pricing with the active Coursera d
   | :--- | :--- | :--- | :--- |
   | **Coursera Summer Discount** | $399/Year | $240/Year (40% OFF) | $159/Year |
   | **Coursera Plus Monthly (3 mo)** | $59/month | $35.40/month (40% OFF) | $23.60/Mo |
-  | **Coursera Teams Plan** | $399/user/year | $199.50/user/year (50%) | $199.50/user |
   | **Google AI Essentials Course** | $49 | $0 (100% Free) | $49 |
   | **Coursera Free Trial** | $0 upfront | $0 for 7 days | — |
   
@@ -147,7 +134,7 @@ This is a risk-free way to try the full Coursera Plus experience before subscrib
     <a href="https://imp.i384100.net/Vx03XM" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/main/Img/Begin%20Your%207-Day%20Unlimited%20Coursera%20Plus%20Access.png" alt="Begin Your 7-Day Unlimited Coursera Plus Access"/></a>
 </div><be>
 
-**Included during the Coursera trial:**
+**Included during the Coursera Trial:**
 
 ✅ Full access to 10,000+ courses  
 
@@ -171,19 +158,20 @@ There are no direct Coursera Plus offers for students, but here are Two smart al
 
 Students can still save big, just through different routes.
 
-### Why 40% Monthly Coursera Plus Discount Deal Is The Best?
+### Which Is The Best Coursera Deal Live Right Now?
 
-The 40% OFF for 3 months Coursera Plus deal gives you full access to 10,000+ courses, hands-on projects, and certificates, all at a lower monthly rate.
+Two Coursera Plus deals are live, both offering 40% off but with different terms and timelines.
 
-<div align="center">
-    <a href="https://imp.i384100.net/19VQAx" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/3f1bed25ec1b82b9744aecb678543a6ea77af2b9/Img/Cousera%2040%25%20OFF%20For%203%20Months.png" alt="Cousera 40% OFF For 3 Months"/></a>
-</div>
+The Coursera Summer Discount gives you the annual plan for $240 instead of $399. Best for long-term learners, this deal ends **July 21**.
+
+The Coursera Plus Monthly Plan gives you 3 months at $35.40/month instead of $59. Ideal for trying Coursera without a big commitment. This offer ends **March 2026**.
 
 <div align='center'>
 
-  | Plan | Regular Price | Discounted Price | Total Savings |
-  | :--- | :--- | :--- | :--- |
-  | **Coursera Plus (Monthly for 3 months)** | $59.00/Mo | $35.40/Mo | $23.60/Mo OFF |
+  | Plan | Regular Price | Discounted Price | Total Savings | Links |
+  | :--- | :--- | :--- | :--- | :---: |
+  | **Coursera Summer Discount** | $399/Year | $240/Year | $159/Year | <a href="https://imp.i384100.net/aO4Qdo" target="_blank">Claim</a> |
+  | **Coursera Plus (Monthly for 3 months)** | $59.00/Mo | $35.40/Mo | $23.60/Mo OFF | <a href="https://imp.i384100.net/19VQAx" target="_blank">Claim</a> |
   
 </div>
 
@@ -191,7 +179,7 @@ Cancel anytime, no hidden fees. Great for quick upskilling or testing the full C
 
 ## How Long Do The Coursera Coupon Code Deals Last?
 
-Coursera deals don’t stick around for long. The current **40% OFF for 3 months offer OR Coursera Summer Discount for 40% OFF** are limited-time discount.
+Coursera deals don’t stick around for long. The current **Cousera Summer Offer 40% OFF for 1 year** is a limited to **July 21**.
 
 ### Big Coursera promo like this usually appears during:
 
@@ -228,7 +216,7 @@ Currently, the **Coursera Plus $1 offer isn’t active for the public**. It appe
 > $35.40/month 40% OFF annual plan, no code needed.
 
 <div align="center">
-    <a href="https://imp.i384100.net/19VQAx" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/3f1bed25ec1b82b9744aecb678543a6ea77af2b9/Img/Cousera%2040%25%20OFF%20For%203%20Months.png" alt="Cousera 40% OFF For 3 Months"/></a>
+    <a href="https://imp.i384100.net/19VQAx" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/11efe92f6517e916edd466c1897442bd835207b3/Img/Cousera%2040%25%20OFF%20For%203%20Months.png" alt="Cousera 40% OFF For 3 Months"/></a>
 </div>
 
 ## Why Coursera Discounts Are Worth It
@@ -248,7 +236,7 @@ Coursera's discounts aren't just about price; they're about access to premium gl
 ✅ Flexible, on-demand learning on your schedule  
       
     
-If you're looking to upskill affordably, these discounts deliver real career value.
+If you're looking to upskill affordably, these Coursera discounts deliver real career value.
 
 ## What If the Coursera Coupon Code Expires?
 
@@ -270,7 +258,7 @@ These Coursera deals are on a **strict time limit**. Once they expire:
     <a href="https://imp.i384100.net/aO4Qdo" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/main/Img/Cousera%20Plus%20Summer%20Discount%20Promotional.png" alt="Coursera Plus Summer Discount"/></a>
 </div>
 
-## Extra Ways to Save with a Coursera Coupon or Promo Code
+## More Ways to Save with a Coursera Coupon or Promo Code
 
 <div align="center">
     <img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/main/Img/coursera%20affiliate.png" alt="Coursera Affiliate"/>
@@ -296,9 +284,11 @@ Want to stretch your savings further? Here are a few extra ways:
 
 Stacking smart strategies with public deals makes Coursera extremely budget-friendly.
 
-## Final Thoughts: 40% OFF for 3 months on Coursera Plus Monthly
+## Final Thoughts: Coursera Plus Summer and Ongoing Deals In July 2025
 
 Coursera latest offers make it easy to learn top skills without paying full price. With **40% OFF for 3 months**, a **free AI course from Google**, and **regional discounts**, there’s real value on the table right now.
+
+Coursera’s current offers make high-quality learning more affordable than ever. With the **Summer Discount giving you 40% off Coursera Plus Annual**, plus **40% off the Monthly Plan for 3 months**, a **free AI course from Google**, and a **7-day Coursera free trial**, there’s serious value available right now.
 
 No promo code needed, just click “**Claim Offer**,” sign in, and you’re set.
 
@@ -321,12 +311,6 @@ Coursera Plus is currently available at 40% OFF for 3 months, bringing the month
 ### Is there a free Coursera plan to try first?  
 
 New users can start with a 7-day free trial of Coursera Plus (monthly plan), which offers full access without any upfront payment.
-
-***
-
-### Can businesses use Coursera for teams?  
-
-Yes, Coursera for Teams is available at 50% off, priced at $199.50/user/year, ideal for training teams with curated professional content.
 
 ***
 

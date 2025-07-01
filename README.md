@@ -4,8 +4,6 @@ The **Coursera Summer Discount** is LIVE with **40% OFF** Coursera Plus Annual, 
 
 To add up to the benefits, you can also grab 40% off the monthly plan for 3 months, a 7-day Coursera free trial, and a 100% free Coursera course that includes a certificate. 
 
-**👇 COURSERA  DEALS ARE LIVE. Just Scroll It & Grab It.**
-
 <div align="center">
     <a href="https://imp.i384100.net/aO4Qdo" target="_blank"><img src="https://github.com/samplerepo-alt/Coursera-Coupon/blob/main/Img/Cousera%20Plus%20Summer%20Discount%20Promotional.png" alt="Coursera Plus Summer Discount"/></a>
 </div>
